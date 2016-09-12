@@ -11,8 +11,10 @@ engines:
           mass_threshold: 100
 ratings:
   paths:
-  - client/src/**
-  - admin/client/src/**
+  - "client/src/**"
+  - "admin/client/src/**"
+  - "**.scss"
+  - "**.js"
 exclude_paths:
 - "**/*"
 - "!client/src/**"
