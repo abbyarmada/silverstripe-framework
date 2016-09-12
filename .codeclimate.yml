@@ -8,7 +8,7 @@ engines:
     config:
       languages:
       - javascript:
-          mass_threshold: 100
+         mass_threshold: 100
 ratings:
   paths:
   - "client/src/**"
