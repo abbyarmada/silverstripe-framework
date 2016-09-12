@@ -15,3 +15,5 @@ ratings:
   - admin/client/src/**
 exclude_paths:
 - "**/*"
+- "!client/src/**"
+- "!admin/client/src/**"
